@@ -1,0 +1,22 @@
+name: docker_molecool_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+    # Base depends
+  - python==3.11
+  - pip
+
+    # Package depends
+  - numpy
+  - matplotlib
+  - black 
+  - pytest-cov
+  - pytest
+  - sphinx-autoapi
+  - coverage
+  - flake8
+  - ipython
+  - sphinx
+  - sphinx-autoapi
+  - sphinx-rtd-theme
