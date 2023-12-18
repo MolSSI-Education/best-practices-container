@@ -1,4 +1,4 @@
-name: docker_molecool_env
+name: molssi_best_practices
 channels:
   - conda-forge
   - defaults
