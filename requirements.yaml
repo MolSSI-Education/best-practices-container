@@ -10,6 +10,7 @@ dependencies:
     # Package depends
   - numpy
   - matplotlib
+  - cookiecutter
   - black 
   - pytest-cov
   - pytest
